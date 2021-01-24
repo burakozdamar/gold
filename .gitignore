@@ -1,3 +1,4 @@
 *.xyz
 *.swp
 .ipynb_checkpoints/
+*.dat
