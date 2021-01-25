@@ -295,7 +295,7 @@ display aodirect 0.300000
 display dof off
 display dof_fnumber 64.000000
 display dof_focaldist 0.700000
-mol new /Users/burakozdamar/gold/quartz_001.xyz type xyz first 0 last -1 step 1 filebonds 1 autobonds 1 waitfor all
+mol new /Users/smol/repo/gold/quartz_001.xyz type xyz first 0 last -1 step 1 filebonds 1 autobonds 1 waitfor all
 mol delrep 0 top
 mol representation CPK 1.000000 0.300000 12.000000 12.000000
 mol color Name
@@ -336,7 +336,7 @@ molinfo top set drawn 0
 set viewpoints([molinfo top]) {{{1 0 0 -22.7275} {0 1 0 -13.1969} {0 0 1 -20.3875} {0 0 0 1}} {{1 0 0 0} {0 1 0 0} {0 0 1 0} {0 0 0 1}} {{0.0369118 0 0 0} {0 0.0369118 0 0} {0 0 0.0369118 0} {0 0 0 1}} {{1 0 0 0} {0 1 0 0} {0 0 1 0} {0 0 0 1}}}
 lappend viewplist [molinfo top]
 # done with molecule 0
-mol new /Users/burakozdamar/gold/quartz_100.xyz type xyz first 0 last -1 step 1 filebonds 1 autobonds 1 waitfor all
+mol new /Users/smol/repo/gold/quartz_100.xyz type xyz first 0 last -1 step 1 filebonds 1 autobonds 1 waitfor all
 mol delrep 0 top
 mol representation CPK 1.000000 0.300000 12.000000 12.000000
 mol color Name
@@ -377,7 +377,7 @@ molinfo top set drawn 0
 set viewpoints([molinfo top]) {{{1 0 0 -22.7275} {0 1 0 -13.1969} {0 0 1 -20.3875} {0 0 0 1}} {{1 0 0 0} {0 1 0 0} {0 0 1 0} {0 0 0 1}} {{0.0369118 0 0 0} {0 0.0369118 0 0} {0 0 0.0369118 0} {0 0 0 1}} {{1 0 0 0} {0 1 0 0} {0 0 1 0} {0 0 0 1}}}
 lappend viewplist [molinfo top]
 # done with molecule 1
-mol new /Users/burakozdamar/gold/quartz_101.xyz type xyz first 0 last -1 step 1 filebonds 1 autobonds 1 waitfor all
+mol new /Users/smol/repo/gold/quartz_101.xyz type xyz first 0 last -1 step 1 filebonds 1 autobonds 1 waitfor all
 mol delrep 0 top
 mol representation CPK 1.000000 0.300000 12.000000 12.000000
 mol color Name
@@ -418,7 +418,7 @@ molinfo top set drawn 0
 set viewpoints([molinfo top]) {{{1 0 0 -22.7275} {0 1 0 -13.1969} {0 0 1 -20.3875} {0 0 0 1}} {{1 0 0 0} {0 1 0 0} {0 0 1 0} {0 0 0 1}} {{0.0369118 0 0 0} {0 0.0369118 0 0} {0 0 0.0369118 0} {0 0 0 1}} {{1 0 0 0} {0 1 0 0} {0 0 1 0} {0 0 0 1}}}
 lappend viewplist [molinfo top]
 # done with molecule 2
-mol new /Users/burakozdamar/gold/quartz_102.xyz type xyz first 0 last -1 step 1 filebonds 1 autobonds 1 waitfor all
+mol new /Users/smol/repo/gold/quartz_102.xyz type xyz first 0 last -1 step 1 filebonds 1 autobonds 1 waitfor all
 mol delrep 0 top
 mol representation CPK 1.000000 0.300000 12.000000 12.000000
 mol color Name
@@ -459,7 +459,7 @@ molinfo top set drawn 0
 set viewpoints([molinfo top]) {{{1 0 0 -22.7275} {0 1 0 -13.1969} {0 0 1 -20.3875} {0 0 0 1}} {{1 0 0 0} {0 1 0 0} {0 0 1 0} {0 0 0 1}} {{0.0369118 0 0 0} {0 0.0369118 0 0} {0 0 0.0369118 0} {0 0 0 1}} {{1 0 0 0} {0 1 0 0} {0 0 1 0} {0 0 0 1}}}
 lappend viewplist [molinfo top]
 # done with molecule 3
-mol new /Users/burakozdamar/gold/quartz_110.xyz type xyz first 0 last -1 step 1 filebonds 1 autobonds 1 waitfor all
+mol new /Users/smol/repo/gold/quartz_110.xyz type xyz first 0 last -1 step 1 filebonds 1 autobonds 1 waitfor all
 mol delrep 0 top
 mol representation CPK 1.000000 0.300000 12.000000 12.000000
 mol color Name
@@ -499,7 +499,7 @@ mol rename top quartz_110.xyz
 set viewpoints([molinfo top]) {{{1 0 0 -22.7275} {0 1 0 -13.1969} {0 0 1 -20.3875} {0 0 0 1}} {{1 0 0 0} {0 1 0 0} {0 0 1 0} {0 0 0 1}} {{0.0369118 0 0 0} {0 0.0369118 0 0} {0 0 0.0369118 0} {0 0 0 1}} {{1 0 0 0} {0 1 0 0} {0 0 1 0} {0 0 0 1}}}
 lappend viewplist [molinfo top]
 # done with molecule 4
-mol new /Users/burakozdamar/gold/quartz_111.xyz type xyz first 0 last -1 step 1 filebonds 1 autobonds 1 waitfor all
+mol new /Users/smol/repo/gold/quartz_111.xyz type xyz first 0 last -1 step 1 filebonds 1 autobonds 1 waitfor all
 mol delrep 0 top
 mol representation CPK 1.000000 0.300000 12.000000 12.000000
 mol color Name
@@ -540,7 +540,7 @@ molinfo top set drawn 0
 set viewpoints([molinfo top]) {{{1 0 0 -22.7275} {0 1 0 -13.1969} {0 0 1 -20.3875} {0 0 0 1}} {{1 0 0 0} {0 1 0 0} {0 0 1 0} {0 0 0 1}} {{0.0369118 0 0 0} {0 0.0369118 0 0} {0 0 0.0369118 0} {0 0 0 1}} {{1 0 0 0} {0 1 0 0} {0 0 1 0} {0 0 0 1}}}
 lappend viewplist [molinfo top]
 # done with molecule 5
-mol new /Users/burakozdamar/gold/quartz_112.xyz type xyz first 0 last -1 step 1 filebonds 1 autobonds 1 waitfor all
+mol new /Users/smol/repo/gold/quartz_112.xyz type xyz first 0 last -1 step 1 filebonds 1 autobonds 1 waitfor all
 mol delrep 0 top
 mol representation CPK 1.000000 0.300000 12.000000 12.000000
 mol color Name
