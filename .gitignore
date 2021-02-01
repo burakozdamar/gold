@@ -4,3 +4,4 @@ calculated/
 .ipynb_checkpoints/
 *.dat
 screenshots/
+*.DS_Store
